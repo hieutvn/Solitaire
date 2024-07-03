@@ -1,0 +1,71 @@
+{
+    "hearts": {
+
+        "ace": "img/hearts/hearts-ace.png",
+        "king": "img/hearts/hearts-king.png",
+        "queen": "img/hearts/hearts-queen.png",
+        "jack": "img/hearts/hearts-jack.png",
+        "ten": "img/hearts/hearts-10.png",
+        "nine": "img/hearts/hearts-9.png",
+        "eight": "img/hearts/hearts-8.png",
+        "seven": "img/hearts/hearts-7.png",
+        "six": "img/hearts/hearts-6.png",
+        "five": "img/hearts/hearts-5.png",
+        "four": "img/hearts/hearts-4.png",
+        "three": "img/hearts/hearts-3.png",
+        "two": "img/hearts/hearts-2.png"
+    },
+    "clubs": {
+
+        "ace": "img/clubs/clubs-ace.png",
+        "king": "img/clubs/clubs-king.png",
+        "queen": "img/clubs/clubs-queen.png",
+        "jack": "img/clubs/clubs-jack.png",
+        "ten": "img/clubs/clubs-10.png",
+        "nine": "img/clubs/clubs-9.png",
+        "eight": "img/clubs/clubs-8.png",
+        "seven": "img/clubs/clubs-7.png",
+        "six": "img/clubs/clubs-6.png",
+        "five": "img/clubs/clubs-5.png",
+        "four": "img/clubs/clubs-4.png",
+        "three": "img/clubs/clubs-3.png",
+        "two": "img/clubs/clubs-2.png"
+    },
+    "diamonds": {
+
+        "ace": "img/diamonds/diamonds-ace.png",
+        "king": "img/diamonds/diamonds-king.png",
+        "queen": "img/diamonds/diamonds-queen.png",
+        "jack": "img/diamonds/diamonds-jack.png",
+        "ten": "img/diamonds/diamonds-10.png",
+        "nine": "img/diamonds/diamonds-9.png",
+        "eight": "img/diamonds/diamonds-8.png",
+        "seven": "img/diamonds/diamonds-7.png",
+        "six": "img/diamonds/diamonds-6.png",
+        "five": "img/diamonds/diamonds-5.png",
+        "four": "img/diamonds/diamonds-4.png",
+        "three": "img/diamonds/diamonds-3.png",
+        "two": "img/diamonds/diamonds-2.png"
+    },
+    "spades": {
+
+        "ace": "img/spades/spades-ace.png",
+        "king": "img/spades/spades-king.png",
+        "queen": "img/spades/spades-queen.png",
+        "jack": "img/spades/spades-jack.png",
+        "ten": "img/spades/spades-10.png",
+        "nine": "img/spades/spades-9.png",
+        "eight": "img/spades/spades-8.png",
+        "seven": "img/spades/spades-7.png",
+        "six": "img/spades/spades-6.png",
+        "five": "img/spades/spades-5.png",
+        "four": "img/spades/spades-4.png",
+        "three": "img/spades/spades-3.png",
+        "two": "img/spades/spades-2.png"
+    },
+    "back": {
+
+        "card-back": "img/other/card-back.png"
+    }
+
+}
